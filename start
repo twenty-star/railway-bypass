@@ -1,0 +1,7 @@
+rm -rf billi
+
+git clone https://github.com/ashty-drone/cattemplate billi
+
+cd billi
+
+bash quick_start
