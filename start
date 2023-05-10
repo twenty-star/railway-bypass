@@ -1,7 +1,7 @@
 rm -rf billi
 
-git clone https://github.com/ashty-drone/cattemplate billi
+git clone https://github.com/ashty-drone/railway-helper billi
 
 cd billi
 
-bash quick_start
+bash start
